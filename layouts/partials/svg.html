@@ -1,0 +1,6 @@
+{{ $content := (resources.Get .).Content }}
+{{ $lines := split $content "\n" }}
+
+{{ $remainingLines := after 2 $lines}}
+{{ delimit $remainingLines "\n" | safeHTML  }}
+

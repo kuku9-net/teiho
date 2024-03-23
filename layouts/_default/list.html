@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+
+<div class="top-page">
+  <div class="images">
+    <div class="title">
+      {{ partial "svg.html" "images/title.svg" }}
+    </div>
+    <div class="publisher">
+      {{ partial "svg.html" "images/mzo.svg" }}
+    </div>
+  </div>
+</div>
+
+<div class="content">
+  {{ .Content }}
+</div>
+{{ partial "footer.html" . }}

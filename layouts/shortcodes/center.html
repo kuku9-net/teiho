@@ -1,0 +1,6 @@
+{{ $img := .Page.Resources.Get (.Get 0) }}
+{{ $class := .Get 1 }}
+{{ $base64 := $img.Content | base64Encode }}
+<div class="center {{ $class }}">
+  <img alt="{{ .Get 0 }}" src="data:{{ $img.MediaType.Type}};base64,{{ $base64 }}" />
+</div>

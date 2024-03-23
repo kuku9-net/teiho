@@ -1,0 +1,99 @@
+@import "./basic.scss";
+
+@mixin flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.top-page {
+    background: #ea7500;
+    height: 100vh;
+    .images {
+        height: 100%;
+        @include flex-center;
+        flex-direction: column;
+        .title {
+            flex: 7;
+            @include flex-center;
+            width: calc(min(600px, 80vw));
+            height: 90vh;
+            svg {
+                width: 60vw;
+            }
+        }
+
+        .publisher {
+            flex: 3;
+            @include flex-center;
+            svg {
+                width: 15vw;
+            }
+        }
+    }
+}
+
+.content {
+    margin: auto;
+    font-size: large;
+    padding: 0 1em 4em;
+
+    h1 {
+        font-size: 1em;
+        visibility: hidden;
+    }
+
+    h2 {
+        margin: 4em auto 0.5em;
+        width: calc(min(80%, 800px));
+    }
+
+    strong {
+        color: red;
+        font-weight: 600;
+    }
+
+    p, ul {
+        margin: 1em auto;
+        width: calc(min(80%, 800px));
+    }
+
+    ul {
+        padding: 1em;
+        li {
+            list-style-type: circle;
+            font-size: 0.95em;
+            margin: 0.5em 0;
+        }
+    }
+    .center {
+        @include flex-center;
+        flex-direction: column;
+        width: 85vw;
+        height: 100vh;
+        margin: 4em auto;
+        img {
+            width: 100%;
+            height: 85vh;
+            object-fit: contain;
+
+        }
+        &.fit {
+            max-height: 50vh;
+            img {
+                height: 100%;
+            }
+        }
+
+    }
+}
+
+.icon {
+    position: fixed;
+    right:1em;
+    top: 1em;
+    width: 4em;
+    svg {
+        transform: rotate(-90deg);
+    }
+}

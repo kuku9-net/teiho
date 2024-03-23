@@ -1,0 +1,34 @@
+baseURL = 'https://mzo.kuku9.net/teiho/'
+languageCode = 'ja-JP'
+
+disableKinds = ["taxonomy", "sitemap", "RSS"]
+disableSitemap = true
+
+defaultContentLanguage = "ja"
+defaultContentLanguageInSubdir = false
+
+
+[languages]
+  [languages.ja]
+    languageCode = "ja"
+    title = "定本 新しい社会"
+
+#   [languages.en]
+#     languageCode = "en"
+#     [languages.en.markup.goldmark.extensions.cjk]
+#         enable = false
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    ordered = false
+    startLevel = 1
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.cjk]
+        enable = true
+        eastAsianLineBreaks = true
+        eastAsianLineBreaksStyle = 'css3draft'
+
+    [markup.goldmark.renderer]
+      unsafe = true
