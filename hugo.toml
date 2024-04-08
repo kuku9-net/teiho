@@ -13,10 +13,12 @@ defaultContentLanguageInSubdir = false
     languageCode = "ja"
     title = "定本 新しい社会"
 
-#   [languages.en]
-#     languageCode = "en"
-#     [languages.en.markup.goldmark.extensions.cjk]
-#         enable = false
+   [languages.en]
+     languageCode = "en"
+     [languages.en.markup.goldmark.extensions.cjk]
+         enable = false
+     [languages.en.markup.goldmark.renderer]
+         unsafe = true
 
 [markup]
   [markup.tableOfContents]

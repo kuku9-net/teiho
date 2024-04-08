@@ -1,4 +1,11 @@
-{{ $img := .Page.Resources.Get (.Get 0) }}
+{{ $path := (.Get 0) }}
+{{ $img := .Page.Resources.Get (printf "%s.%s%s" (path.BaseName $path)
+                                                 (.Site.LanguageCode)
+                                                 (path.Ext $path)) }}
+{{ if (not $img) }}
+  {{ $img = .Page.Resources.Get $path }}
+{{ end }}
+
 {{ $class := .Get 1 }}
 {{ $base64 := $img.Content | base64Encode }}
 <div class="center {{ $class }}">

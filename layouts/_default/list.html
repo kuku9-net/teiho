@@ -2,12 +2,22 @@
 
 <div class="top-page">
   <div class="images">
+    {{ if eq .Site.Language.Lang "en"}}
+    <div class="title">
+      {{ $titleImage := resources.Get "images/title.en.webp" }}
+      <img src="data:{{ $titleImage.MediaType.Type}};base64,{{ $titleImage.Content | base64Encode }}" />
+    </div>
+    <div class="publisher">
+      {{ partial "svg.html" "images/mzo.en.svg" }}
+    </div>
+    {{ else }}
     <div class="title">
       {{ partial "svg.html" "images/title.svg" }}
     </div>
     <div class="publisher">
       {{ partial "svg.html" "images/mzo.svg" }}
     </div>
+    {{ end }}
   </div>
 </div>
 
