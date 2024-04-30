@@ -70,6 +70,8 @@ In other words, the fact the current dominance structure is so huge implies that
 When institutions and technology allow for proper redistribution to "make a better society," domination is smoothed out and structures are stabilized.
 Stabilization of the structure allows the structure to be maintained even as disparities widen.
 
+In addition, according to "system justification theory" by social psychologist John T. Jost, people have a desire to justify the system because they dislike instability and disorder. Therefore, it has been confirmed that even those who are in inferior positions in the structure tend to blame the inferior individuals rather than the structure. This psychology causes people to voluntarily enslave themselves to the structure.
+
 # 革命→移行
 {{< center next-order.webp >}}
 
