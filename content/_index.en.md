@@ -89,15 +89,13 @@ When such a loop is formed, the existing structure will collapse.
 
 If we think of building the next order in the image of a social network, it would be to form a **this side** that is disconnected from the **that side** that supports the existing structure.
 
-The "that side" is highly structure-dependent, made up of people who seek comfort in their subservience to the power, and who are unable to move away from it.
-Polished by intense competition, modern society has fallen into a ludicrous rationality.
-People buy things they don't know they really want, work at meaningless jobs, follow unjustified authority, and live without considering what they are sacrificing.
-That is the "that side".
+Today's society is structured with a **center** optimized for economic rationality and a **periphery** that deviates from that rationality.
+Some people who question the rationality of the center and aspire to independent activities are placed on the periphery and live in pieces.
 
-There are those who have doubts about such people and wish to pursue their own independent activities.
-The network of such people is "this side".
-It is not obvious what the ideal society is.
-However, it is not difficult to make it better than the "that side".
+The network of solidarity among those on the periphery is "this side".
+Those who will remain on "that side" will be those who are strongly dependent on the structure, seeking comfort in subservience to the giant, and unable to leave it.
+
+The social order on this side of the world is yet to be created. It is not obvious what the ideal society will be. But it is not difficult to make it better than "that side".
 
 {{< center chasm.webp fit >}}
 
@@ -110,6 +108,8 @@ Whether the scale on this side can cross the chasm depends on <ins>how many peop
 If the new order failed to form, the world will continue to move toward a complete order that does not allow even the slightest chaos.
 As the structure stabilizes, those who are no longer needed will in turn be cut off.
 In such a world, if one resists embedding the self in the structure, they will be cut down.
+
+To avoid this collapse, let's work together to come up with a "new society". If you have any kind of experience, ability, curiosity, or anything else you would like to leave behind for the next order, please feel free to contact us.
 
 ## Contact
 If you have any comments, criticisms, or concerns, please contact us below.  
