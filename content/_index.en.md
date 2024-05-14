@@ -75,12 +75,13 @@ In addition, according to "system justification theory" by social psychologist J
 # 革命→移行
 {{< center next-order.webp >}}
 
-When a structure reaches its limits, those who depend on it are sacrificed. In particular, priority is given to those at the end of the structure to be cut off.
+The deeper you go to the end of the structure, the greater the wrinkles caused by structural flaws, and there is a lot of bloodshed at the farthest end.
 To avoid this, we need a **next order** that could be escape from a structure-independent.
 It takes a reasonable amount of time to grow order.
 It must be nurtured steadily and steadily, while relying on the current structure.
 
-When the brand-new order exceeds a certain size through solidarity among those at the end, it becomes easier to abandon the existing structure, leading to further expansion of scale.
+The more structurally disadvantaged you are and the more appropriate imagination you have for what you will lose in the future, the more motivated you will be to move on to the next order.
+When the next order exceeds a certain size through solidarity among those at the end, it becomes easier to abandon the existing structure, leading to further expansion of scale.
 When such a loop is formed, the existing structure will collapse.
 
 
