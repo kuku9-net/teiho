@@ -96,7 +96,7 @@ Some people who question the rationality of the center and aspire to independent
 The network of solidarity among those on the periphery is "this side".
 Those who will remain on "that side" will be those who are strongly dependent on the structure, seeking comfort in subservience to the giant, and unable to leave it.
 
-The social order on this side of the world is yet to be created. It is not obvious what the ideal society will be. But it is not difficult to make it better than "that side".
+The "that side" is a unified group that has abandoned the individual. On the other hand, the people on "this side" have diverse ideas, and some of them may clash with ideas that are inevitably incompatible with each other. Even so, we need a place where we can come together with a common awareness that <ins>we are not on the "that side"</ins>.
 
 {{< center chasm.webp fit >}}
 
