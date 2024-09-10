@@ -27,7 +27,7 @@ The following two points should be kept in mind regarding the difficulty of pred
 - Because of the complexity of so many parameters, **a slightly different way of transmitting vibration can produce completely different results**.
 
 Social networks can be thought of in the same way as earthquakes.
-A square is a person and a spring is considered a relationship.
+A square is a person, region, or organization. A spring is considered a relationship.
 The vast number of relationships between humans - talking, buying and selling, organizing, etc. - make up a far more complex network than earthquakes, and are even more difficult to predict than earthquakes.
 We do not know the cause and effect of our actions and results, so <ins>we cannot control the macro results as we want them to be</ins>!
 
