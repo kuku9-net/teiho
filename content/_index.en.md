@@ -76,7 +76,7 @@ In addition, according to "system justification theory" by social psychologist J
 {{< center next-order.webp >}}
 
 The deeper you go to the end of the structure, the greater the wrinkles caused by structural flaws, and there is a lot of bloodshed at the farthest end.
-To avoid this, we need a **next order** that could be escape from a structure-independent.
+To avoid this, we need a **next order** that could be escape from the structure.
 It takes a reasonable amount of time to grow order.
 It must be nurtured steadily and steadily, while relying on the current structure.
 
